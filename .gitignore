@@ -9,3 +9,10 @@ packer_cache/
 
 # ISO's for building
 *.iso
+
+# variables.json with access
+variables.json
+
+# pem files
+*.pem
+
