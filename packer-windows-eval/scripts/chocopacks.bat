@@ -7,10 +7,10 @@ cmd /c choco install notepadplusplus
 cmd /c choco install adobereader
 cmd /c choco install firefoxesr
 cmd /c choco install googlechrome
-cmd /c choco install libreoffice
+REM cmd /c choco install libreoffice
 cmd /c choco install putty
 cmd /c choco install winscp
 cmd /c choco install ccleaner
-cmd /c choco install thunderbird
-cmd /c choco install openssl.light
+REM cmd /c choco install thunderbird
+REM cmd /c choco install openssl.light
 cmd /c choco install lastpass
